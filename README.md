@@ -8,11 +8,14 @@ _... a dev ?_ :speak_no_evil:
 
 :globe_with_meridians: Personal page: https://ekalinak.eu/
 
+---
+
 ### :watch: Present 
 
 - Coding: Not that much :see_no_evil:
 - Desiging apps: Wireframes, Team controlling :flushed:
 
+---
 
 ### :hourglass: History 
 
@@ -24,7 +27,9 @@ Magento 2 | ![Magento](https://lh3.googleusercontent.com/proxy/sIIsChH8ifvPc_nuD
 Chrome Extensions | ![Chrome](https://www.autotechint.com/wp-content/uploads/google-chrome-icon-32.png) | Experimental
 Python | ![Python](https://static.filehorse.com/icons/developer-tools/python-icon-32.png) | Experimental
 
-### Stack
+---
+
+### :page_with_curl: Stack
 
 **Main**
 
